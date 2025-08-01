@@ -6,7 +6,6 @@
     <li><strong>Backend:</strong> Node.js, Express.js</li>
     <li><strong>Real-time Communication:</strong> Socket.io</li>
     <li><strong>Styling:</strong> CSS</li>
-    <li><strong>Hosting (Optional):</strong> Vercel (React), Render (Node)</li>
   </ul>
 
   <h2>✨ Key Features</h2>
